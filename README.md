@@ -1,6 +1,6 @@
 ### Hola👋, soy Daniela !
 
-Soy desarrolladora Front-End!   [ClipWindowsGIF](https://user-images.githubusercontent.com/95256859/165680522-1adaa71c-c530-4a6a-951e-4a9c8ef97f94.gif)
+Soy desarrolladora Front-End!  
 
 
 - 🌱 Actualmente estoy aprendiendo sobre React y Node.js <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
@@ -16,5 +16,9 @@ Soy desarrolladora Front-End!   [ClipWindowsGIF](https://user-images.githubuserc
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ###  Contáctame 
-<a href="https://www.linkedin.com/in/daniela-alcala-daboin/">
-  <img align="left" alt="Daniela Alcalá" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+<p align="center">
+ <a href="mailto:daniela.alcalad@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+  
+  <a href="www.linkedin.com/in/daniela-alcala-daboin"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  </p>
