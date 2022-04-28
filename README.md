@@ -1,6 +1,6 @@
 ### Hola👋, soy Daniela !
 
-<h2>Soy desarrolladora Front-End!</h2>
+Soy desarrolladora Front-End!
 
 
 - 🌱 Actualmente estoy aprendiendo sobre React y Node.js 
