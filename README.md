@@ -1,6 +1,6 @@
 ### Hola👋, soy Daniela !
 
-Soy desarrolladora Front-End!  
+<h2>Soy desarrolladora Front-End!</h2>
 
 
 - 🌱 Actualmente estoy aprendiendo sobre React y Node.js 
@@ -8,7 +8,7 @@ Soy desarrolladora Front-End!
 - ⛰️ Siempre lista para hacer trekking
 
 
-### 👨‍💻 Lenguajes y herramientas
+### 👩‍💻 Lenguajes y herramientas
 
 <br />
 
