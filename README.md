@@ -17,7 +17,7 @@ Soy desarrolladora Front-End!
 
 ###  Contáctame 
 
-<p align="center">
+<p>
  <a href="mailto:daniela.alcalad@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
  <a href="https://www.linkedin.com/in/daniela-alcala-daboin/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   </p>
