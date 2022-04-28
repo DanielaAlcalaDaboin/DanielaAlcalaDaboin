@@ -3,7 +3,7 @@
 Soy desarrolladora Front-End!  
 
 
-- 🌱 Actualmente estoy aprendiendo sobre React y Node.js <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+- 🌱 Actualmente estoy aprendiendo sobre React y Node.js 
 - 🤓 Soy estudiante de Laboratoria 
 - ⛰️ Siempre lista para hacer trekking
 
